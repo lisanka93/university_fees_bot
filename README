@@ -1,5 +1,8 @@
 Chatbot code for chatbot presented in paper "A Persuasive Chatbot using a Crowd-Sourced Argument Graph and Concerns"
+is in the following github repository: https://github.com/lisanka93/fees_bot
+This repository contains the logs of the chats (as pickle files) and some screen shots examples
 
+
+
+paper:
 https://lisanka93.github.io/img/paper7.pdf
-
-Repository also contains the logs of the chats (as pickle files) and some screen shots examples
